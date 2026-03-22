@@ -588,10 +588,7 @@ a { text-decoration: none; color: inherit; }
 /* ════════════════════════════════════════════════
    SKILLS
    ════════════════════════════════════════════════ */
-.skills-section {
-  background: rgba(253, 243, 240, 0.55);
-  backdrop-filter: blur(2px);
-}
+
 
 .skills-categories {
   display: flex;
@@ -751,10 +748,6 @@ a { text-decoration: none; color: inherit; }
 /* ════════════════════════════════════════════════
    PROJECTS
    ════════════════════════════════════════════════ */
-.projects-section {
-  background: rgba(253, 243, 240, 0.55);
-  backdrop-filter: blur(2px);
-}
 
 .projects-grid {
   display: grid;
@@ -1013,10 +1006,6 @@ a { text-decoration: none; color: inherit; }
 /* ════════════════════════════════════════════════
    CONTACT
    ════════════════════════════════════════════════ */
-.contact-section {
-  background: rgba(253, 243, 240, 0.55);
-  backdrop-filter: blur(2px);
-}
 
 .contact-grid {
   display: grid;
