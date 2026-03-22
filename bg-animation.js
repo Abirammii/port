@@ -12,12 +12,13 @@
 
   // ── Gradient palette (soft pink) ──
   const GRAD_STOPS = [
-    { pos: 0.00, color: '#FADADD' },
-    { pos: 0.25, color: '#F8C8DC' },
-    { pos: 0.50, color: '#f5a2c5' },
-    { pos: 0.75, color: '#F8C8DC' },
+    { pos: 0.00, color: '#D94496' },
+    { pos: 0.25, color: '#F47DBB' },
+    { pos: 0.50, color: '#FF99CC' },
+    { pos: 0.75, color: '#FFB6D5' },
     { pos: 1.00, color: '#FADADD' },
   ];
+
 
   // ── Symbol library: Data / ML / ETL glyphs ──
   const SYMBOLS = [
