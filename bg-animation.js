@@ -12,11 +12,11 @@
 
   // ── Gradient palette (soft pink) ──
   const GRAD_STOPS = [
-    { pos: 0.00, color: '#EF87BE' },
-    { pos: 0.25, color: '#F9A3CB' },
-    { pos: 0.50, color: '#FCBCD7' },
-    { pos: 0.75, color: '#FFCEE6' },
-    { pos: 1.00, color: '#FADADD' },
+    { pos: 0.00, color: '#F67BB6' },
+    { pos: 0.25, color: '#FF8DC4' },
+    { pos: 0.50, color: '#FF8DC4' },
+    { pos: 0.75, color: '#FFACD4' },
+    { pos: 1.00, color: '#FFACD4' },
   ];
 
 
