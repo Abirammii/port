@@ -14,7 +14,7 @@
   const GRAD_STOPS = [
     { pos: 0.00, color: '#FADADD' },
     { pos: 0.25, color: '#F8C8DC' },
-    { pos: 0.50, color: '#ffc3dc' },
+    { pos: 0.50, color: '#ff8abb' },
     { pos: 0.75, color: '#F8C8DC' },
     { pos: 1.00, color: '#FADADD' },
   ];
